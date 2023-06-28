@@ -1,0 +1,211 @@
+[
+  {
+    "category": "home,vida",
+    "canonical": "crisis-y-seguros",
+    "imageURL": "VIDA_260X160_1_CRISISEGURO_NOTICIA.png",
+    "imageALT": "Crisis y seguros",
+    "titulo": "¿Vale la pena invertir en un seguro de vida?",
+    "texto": "Mejorar nuestra planeación financiera es uno de los tantos aprendizajes que nos dejó la pandemia. Se estima que en Colombia hay un aproximado de 2 millones de personas que cuentan con un seguro voluntario. En lo que va corrido de la pandemia, algunos se han beneficiado con ayuda de la indemnización. Un Seguro de vida se convierte entonces en un salvavidas para afrontar momentos inesperados, sin afectar la calidad de vida y la tranquilidad de las personas y las familias.",
+    "linkURL": "",
+    "linkText": "",
+    "linkExternal": true
+  },
+  {
+    "category": "home,movilidad",
+    "canonical": "extranjeros-seguro-en-colombia",
+    "imageURL": "VIAJESMOVILIDAD_260X160_1_EXTRANJEROS_NOTICIA.png",
+    "imageALT": "Extranjeros seguro en Colombia",
+    "titulo": "¿Cuántos siniestros han pagado las aseguradoras por covid-19?",
+    "texto": "En Fasecolda señalan que la siniestralidad de todos los sectores de vida (incluidos los seguros de salud) ha subido 45% durante la emergencia sanitaria y suman pagos por 651.000 millones de pesos. El gremio estima que al finalizar la pandemia, los siniestros por COVID superarán el billón de pesos.",
+    "linkURL": "https://colombia.travel/es/informacion-covid-19",
+    "linkText": "Ver más",
+    "linkExternal": true
+  },
+  {
+    "category": "home",
+    "canonical": "colombia-y-pandemia",
+    "imageURL": "SALUD_260X160_1_PANDEMIA_NOTICIA.png",
+    "imageALT": "Colombia y Pandemia",
+    "titulo": "Se dio inicio a la obra de la planta de VaxThera",
+    "texto": "La nueva infraestructura contará con una inversión de 54 millones de dólares por parte de Seguros Sura, para el desarrollo de una planta con estándares internacionales para la investigación, producción, distribución y capacidad de envasado de vacunas. También servirá para dar una respuesta oportuna frente a emergencias sanitarias, como la derivada por el covid-19.",
+    "linkURL": "",
+    "linkText": "",
+    "linkExternal": false
+  },
+  {
+    "category": "home",
+    "canonical": "paseo-y-mascotas",
+    "imageURL": "MASCOTAS_260X160_1_COVID_NOTICIA.png",
+    "imageALT": "Paseos y mascotas",
+    "titulo": "Paseos, mascotas y COVID-19",
+    "texto": "Una sola persona debe ser la encargada de pasear a tu mascota, si son varios en tu hogar, pueden turnarse. Procura que los paseos sean cortos, no más de 15 minutos , para evitar riesgos por sobreexposición.",
+    "linkURL": "",
+    "linkText": "",
+    "linkExternal": false
+  },
+  {
+    "category": "vida",
+    "canonical": "vale-la-pena-invertir-en-seguro-de-vida",
+    "imageURL": "VIDA_260X160_2_INVERTIRSEGURO_NOTICIA.png",
+    "imageALT": "Comprar seguros de vida",
+    "titulo": "¿Vale la pena invertir en un seguro de vida?",
+    "texto": "Mejorar nuestra planeación financiera, uno de tantos aprendizajes que nos dejó la pandemia. Se estima que en Colombia hay un aproximado de 2 millones de personas que cuentan con un seguro voluntario, en lo que va corrido de la pandemia, algunos, se han beneficiado con ayuda o indemnización. Un Seguro de vida, se convierte entonces en un salvavidas para afrontar momentos inesperados, sin afectar la calidad de vida y la tranquilidad de las personas y las familias. ",
+    "linkURL": "",
+    "linkText": "",
+    "linkExternal": false
+  },
+  {
+    "category": "vida",
+    "canonical": "cuantos-sinienstros-han-pagado-las-aseguradoras-por-covid",
+    "imageURL": "VIDA_260X160_3_RECLAMACIONES_NOTICIA.png",
+    "imageALT": "Siniestros en seguros y covid",
+    "titulo": "¿Cuántos siniestros han pagado las aseguradoras por covid-19?",
+    "texto": "En Fasecolda señalan que la siniestralidad de todos los sectores de vida (incluidos los seguros de salud) ha subido 45 por ciento durante la emergencia sanitaria, y suma pagos por 651.000 millones de pesos. El gremio estima que al finalizar la pandemia, los siniestros por covid superarán el billón de pesos.",
+    "linkURL": "",
+    "linkText": "",
+    "linkExternal": false
+  },
+  {
+    "category": "vida",
+    "canonical": "nueva-enfraestructura-vaxthera",
+    "imageURL": "VIDA_260X160_4_vaxthera_NOTICIA.png",
+    "imageALT": "Vaxthera",
+    "titulo": "Se dió inicio a la obra de la planta de VaxThera",
+    "texto": "La nueva infraestructura contará con una inversión de 54 millones de dólares por parte de Seguros Sura, para el desarrollo de una planta con estándares internacionales para la investigación, producción, distribución y capacidad de envasado de productos. También servirá para dar una respuesta oportuna frente a emergencias sanitarias, como la derivada por el covid-19.",
+    "linkURL": "",
+    "linkText": "",
+    "linkExternal": false
+  },
+  {
+    "category": "movilidad",
+    "canonical": "sigue-estos-consejos-para-evitar-la-fatiga-al-conducir",
+    "imageURL": "VIAJESMOVILIDAD_260X160_2_FATIGA_NOTICIA.png",
+    "imageALT": "Fatiga al conducir",
+    "titulo": "Sigue estos consejos para evitar la fatiga al conducir:",
+    "texto": " Dormir muy bien el día anterior, planificar el recorrido con intervalos no superiores a 3hrs, hacer pausas activas, mínimo 30min, alimentarte de forma liviana y balanceada, hidratarte durante el desplazamiento, mantén la temperatura lo más templada y fresca posible, a mayor temperatura, mayor sueño.",
+    "linkURL": "",
+    "linkText": "",
+    "linkExternal": false
+  },
+  {
+    "category": "movilidad",
+    "canonical": "colombianos-en-el-extranjero",
+    "imageURL": "VIAJESMOVILIDAD_260X160_3_COLOMBIANOSEXTERIOR_NOTICIA.png",
+    "imageALT": "Viaja al exterior de Colombia",
+    "titulo": "Colombianos en el extranjero:",
+    "texto": "¿Estás pensando en viajar fuera del país? Utiliza Sherpa para informarte acerca de los requisitos de prueba de COVID-19, los protocolos de cuarentena y las restricciones de entrada en cualquier parte del mundo.",
+    "linkURL": "https://apply.joinsherpa.com/travel-restrictions",
+    "linkText": "Ver más",
+    "linkExternal": true
+  },
+  {
+    "category": "movilidad",
+    "canonical": "por-que-adquirir-un-seguro-de-vehiculo",
+    "imageURL": "VIAJESMOVILIDAD_260X160_4_SEGUROCARROYMOTO_NOTICIA.png",
+    "imageALT": "Seguro para carro y moto",
+    "titulo": "¿Por qué adquirir un seguro de vehículo?  ",
+    "texto": "El SOAT  es de uso obligatorio y su cobertura va dirigida a la atención integral de las víctimas  en caso de accidente de tránsito .  También puedes adquirir pólizas voluntarias que protegen ante siniestros, perdidas parciales o totales  y algunos servicios de asistencia.",
+    "linkURL": "",
+    "linkText": "",
+    "linkExternal": false
+  },
+  {
+    "category": "movilidad",
+    "canonical": "hay-riesgos-al-polarizar-los-vidrios-del-carro",
+    "imageURL": "VIAJESMOVILIDAD_260X160_5_POLARIZADOCARRO_NOTICIA.png",
+    "imageALT": "carro polarizado",
+    "titulo": "¿Hay riesgos al polarizar los vidrios del carro?",
+    "texto": "Si bien hay ventajas al polarizar las ventanas de tu auto, como que el cristal sea más resistente y la protección que tienes contra la acción directa de los rayos UV. Debes procurar no exceder los parámetros, ya que tonos muy oscuros afectan la visibilidad, especialmente en la noche y los días lluviosos.",
+    "linkURL": "",
+    "linkText": "",
+    "linkExternal": false
+  },
+  {
+    "category": "salud",
+    "canonical": "colombia-supero-la-peor-etapa-de-la-pandemia",
+    "imageURL": "SALUD_260X160_1_PANDEMIA_NOTICIA.png",
+    "imageALT": "Colombia y Pandemia",
+    "titulo": "Colombia superó la peor etapa de la pandemia",
+    "texto": "<b>El ministro de Salud, Fernando Ruiz,</b> destacó el pasado jueves 12 de mayo que la etapa más crítica del COVID-19 ya pasó en Colombia, gracias a las instituciones y el personal de salud que con sus esfuerzos brindaron atención médica a los pacientes. Sin embargo, señaló que <b>esto no significa que la pandemia haya finalizado.</b>",
+    "linkURL": "",
+    "linkText": "",
+    "linkExternal": false
+  },
+  {
+    "category": "salud",
+    "canonical": "6-beneficios-de-una-consulta-medica-en-linea",
+    "imageURL": "SALUD_260X160_2_MEDICINAONLINE_NOTICIA.png",
+    "imageALT": "Medicina en línea",
+    "titulo": "6 beneficios de una consulta médica en línea",
+    "texto": "Las citas pueden ser agendadas 24/7, fácil acceso, no hay limitaciones geográficas, plataforma confiable, ahorro de costos y previenen el autodiagnóstico.",
+    "linkURL": "",
+    "linkText": "",
+    "linkExternal": false
+  },
+  {
+    "category": "salud",
+    "canonical": "tapabocas-en-colombia",
+    "imageURL": "SALUD_260X160_3_TAPABOCAS_NOTICIA.png",
+    "imageALT": "Tapabocas en Colombia",
+    "titulo": "¡Adiós al tapabocas!",
+    "texto": "Jardines, escuelas, colegios y universidades de 331 municipios en Colombia podrán retirar el uso obligatorio del tapabocas a partir del 16 de mayo. La condición para que esto suceda es que las poblaciones <b>tengan el 70 % de esquemas completos de vacunación contra COVID-19  y el 40 % de refuerzos de ese 70 %.</b>",
+    "linkURL": "",
+    "linkText": "",
+    "linkExternal": false
+  },
+  {
+    "category": "salud",
+    "canonical": "como-escojo-mi-poliza-de-salud",
+    "imageURL": "SALUD_260X160_4_POLIZASALUD_NOTICIA.png",
+    "imageALT": "Pólizas de salud Colombia",
+    "titulo": "¿Cómo escojo mi póliza de salud?",
+    "texto": "<b>1.Tener en cuenta necesidades y el momento de vida en el cual me encuentro</b>, con el fin de encontrar un plan que brinde las coberturas adecuadas.  <b>2.Presupuesto,</b> esto nos acerca al escenario real del plan de pequeña, mediana o amplia cobertura al que puedo acceder.  <b>3.Cuenta con un asesor</b> que te oriente y detalle las características de los planes.",
+    "linkURL": "/seguro-de-salud-poliza/p",
+    "linkText": "¡Asesoría aquí!",
+    "linkExternal": false
+  },
+  {
+    "category": "mascotas",
+    "canonical": "consejos-para-eliminar-el-mal-aliento-de-tus-mascotas",
+    "imageURL": "Consejos-para-eliminar-el-mal-aliento-de-tus-mascotas.jpg",
+    "imageALT": "Mal aliento y mascotas",
+    "titulo": "Consejos para eliminar el mal aliento de tus mascotas",
+    "texto": "El mal aliento en los perros es el resultado de parásitos intestinales, cáncer de boca, inflamación en las encías, presencia de cálculo y placa bacterina; acumulación de comida o pelos en la lengua.  Para ello, es indispensable una buena limpieza dental con una crema especial para ellos, al menos dos a tres veces al mes. Adicional, existen otros elementos que mejoran su salud oral como el aceite de coco, la canela, los probióticos y el agua mineral.",
+    "linkURL": "",
+    "linkText": "",
+    "linkExternal": false
+  },
+  {
+    "category": "mascotas",
+    "canonical": "consejos-a-tener-en-cuenta-cuando-llevas-tu-perro-a-la-peluqueria",
+    "imageURL": "Consejos-a-tener-en-cuenta-cuando-llevas-tu-perro-a-la-peluqueri´a.jpg",
+    "imageALT": "Perros, peluquería",
+    "titulo": "Consejos a tener en cuenta cuando llevas tu perro a la peluquería",
+    "texto": "El corte no va encaminado solo hacia cuestiones estéticas, sino que además le ayudará a prevenir nudos, parásitos e infecciones. Primero escoge muy bien la peluquería, que sea un lugar especializado para mascotas, no te dejes llevar por el precio. Segundo expresa que tipo de corte en especifico quieres porque puede cambiar totalmente su apariencia si cortan de más y por último dale premios o galletas por superar esos pasos que a veces generan miedo, así se sentirá en un lugar seguro.",
+    "linkURL": "",
+    "linkText": "",
+    "linkExternal": false
+  },
+  {
+    "category": "mascotas",
+    "canonical": "consejos-para-afrontar-la-despedida-de-tu-mascota",
+    "imageURL": "Consejos-para-afrontar-la-despedida-de-tu-mascota.jpg",
+    "imageALT": "Despedida mascotas",
+    "titulo": "Consejos para afrontar la despedida de tu mascota",
+    "texto": "Sin duda uno de los momentos más dificiles en nuestra vida, ya que nuestra mascota se convierte en un miembro más de nuestra familia, por lo que sentiremos las mismas emociones de cuqlquier duelo como son negación, ira, depresión y aceptación. Es importante no dejar sola la mascota y procura contar con la compañía de tu núcleo familiar o amigos cercanos. Busca una red de apoyo emocional para ti y un lugar confortable y familiar para tu mascotas. Llegado el momento, permitete expresar todo aquello que te genera su perdida es natural y sano hacerlo. Luego, gestiona la disposición de su cuerpo de una manera segura y que te genere tranquilidad, para ello existen diversas soluciones excequiales que deberás tener preparado para cuando llegue ese momento. Recuerda que las mascotas viven mucho menos que nostros, por eso es importante planificar ese momento inevitable",
+    "linkURL": "",
+    "linkText": "",
+    "linkExternal": false
+  },
+  {
+    "category": "mascotas",
+    "canonical": "como-viajar-con-perros--gatos",
+    "imageURL": "https://www.segurosexito.com/arquivos/%C2%BFCo%C2%B4mo-viajar-con-perros-y-o-gatos--Siga-estos-consejos.jpg",
+    "imageALT": "Viajar Perros",
+    "titulo": "¿Cómo viajar con perros y/o gatos? Siga estos consejos",
+    "texto": "Antes de empacar maletas hay que llevar a nuestra mascota al veterinario para asegurarnos que esté bien para poder viajar, es fundamental que su carnet de vacunación esté vigente. Alimentar la mascota tres o cuatro horas antes de iniciar el recorrido, utiliza un collar con placa de identificación que tenga el número telefónico del dueño y, de ser posible, añadir un microchip para encontrarlo si se pierde, son otras de las recomendaciones. ",
+    "linkURL": "",
+    "linkText": "",
+    "linkExternal": false
+  }
+]

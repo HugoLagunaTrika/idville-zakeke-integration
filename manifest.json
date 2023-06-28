@@ -1,0 +1,97 @@
+{
+  "name": "zakeke-integration",
+  "vendor": "idville",
+  "version": "0.0.2",
+  "title": "Zakeke",
+  "description": "Zakeke",
+  "mustUpdateAt": "2018-01-04",
+  "categories": [],
+  "builders": {
+    "node": "6.x"
+  },
+  "dependencies": {
+    "vtex.catalog-graphql": "1.x"
+  },
+  "credentialType": "absolute",
+  "policies": [
+    {
+      "name": "vtex.catalog-graphql:resolve-graphql"
+    },
+    {
+      "name": "ADMIN_DS"
+    },
+    {
+      "name": "vbase-read-write"
+    },
+    {
+      "name": "colossus-fire-event"
+    },
+    {
+      "name": "colossus-write-logs"
+    },
+    {
+      "name": "LogisticsViewer"
+    },
+    {
+      "name": "outbound-access",
+      "attrs": {
+        "host": "{{workspace}}--{{account}}.myvtex.com",
+        "path": "*"
+      }
+    },
+    {
+      "name": "outbound-access",
+      "attrs": {
+        "host": "{{account}}.vtexcommercestable.com.br",
+        "path": "*"
+      }
+    },
+    {
+      "name": "outbound-access",
+      "attrs": {
+        "host": "portal.vtexcommercestable.com.br",
+        "path": "*"
+      }
+    },
+    {
+      "name": "outbound-access",
+      "attrs": {
+        "host": "{{account}}.myvtex.com",
+        "path": "*"
+      }
+    },
+    {
+      "name": "outbound-access",
+      "attrs": {
+        "host": "api.vtex.com",
+        "path": "*"
+      }
+    }
+  ],
+  "settingsSchema": {
+    "title": "Zakeke Integration configuration",
+    "type": "object",
+    "properties": {
+      "customizableCategories": {
+        "type": "array",
+        "title": "Customizable Categories",
+        "description": "Categories that will be customizable",
+        "items": {
+          "type": "object",
+          "properties": {
+            "categoryId": {
+              "type": "number",
+              "title": "Category ID"
+            },
+            "personalization": {
+              "type": "string",
+              "title": "Personalization",
+              "description": "Personalization field name"
+            }
+          }
+        }
+      }
+    }
+  },
+  "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
+}
