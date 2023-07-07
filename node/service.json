@@ -1,0 +1,39 @@
+{
+  "stack": "nodejs",
+  "memory": 1536,
+  "cpu": {
+    "type": "shared",
+    "value": 80,
+    "scalingPercentage": 95
+  },
+  "ttl": 30,
+  "timeout": 12,
+  "minReplicas": 2,
+  "maxReplicas": 150,
+  "routes": {
+    "catalog": {
+      "path": "/_/zakeke/productSyncAPI",
+      "public": true
+    },
+    "configurator": {
+      "path": "/_/zakeke/productSyncAPI/:product/configurator",
+      "public": true
+    },
+    "item": {
+      "path": "/_/zakeke/productSyncAPI/:product/options",
+      "public": true
+    },
+    "productInfo": {
+      "path": "/_/zakeke/getproductinfo",
+      "public": true
+    },
+    "addTocart": {
+      "path": "/_/zakeke/addtocart",
+      "public": true
+    },
+    "editCart": {
+      "path": "/_/zakeke/editcart",
+      "public": true
+    }
+  }
+}
