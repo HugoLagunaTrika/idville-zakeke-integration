@@ -34,6 +34,10 @@
     "editCart": {
       "path": "/_/zakeke/editcart",
       "public": true
+    },
+    "getZakekeToken": {
+      "path": "/_/zakeke/getToken",
+      "public": true
     }
   }
 }

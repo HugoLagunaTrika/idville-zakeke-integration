@@ -16,6 +16,7 @@ import { editProductCart } from './middleware/editProductInCart'
 import { item } from './middleware/options'
 import { optionsRes } from './middleware/optionsRes'
 import { productInfo } from './middleware/ProductInfo'
+import { zakekeToken } from './middleware/zakekeToken'
 
 const TIMEOUT_MS = 15000
 const memoryCache = new LRUCache<string, any>({ max: 5000 })
@@ -67,6 +68,10 @@ export default new Service({
     }),
     editCart: method({
       POST: [editProductCart],
+      OPTIONS: [optionsRes],
+    }),
+    getZakekeToken: method({
+      POST:[zakekeToken],
       OPTIONS: [optionsRes],
     }),
   },

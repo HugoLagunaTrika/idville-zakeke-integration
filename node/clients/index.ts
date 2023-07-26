@@ -2,6 +2,7 @@ import { IOClients } from '@vtex/api'
 import { CatalogClient } from './catalog'
 import Checkout from './checkout'
 import logistics from './logistic'
+import Zakeke from './zakeke'
 
 // Extend the default IOClients implementation with our own custom clients.
 export class Clients extends IOClients {
@@ -15,5 +16,9 @@ export class Clients extends IOClients {
 
   public get checkoutClient() {
     return this.getOrSet('checkoutClient', Checkout)
+  }
+
+  public get zakekeClient() {
+    return this.getOrSet('zakekeClient', Zakeke)
   }
 }

@@ -1,0 +1,146 @@
+{
+  "name": "zakeke-integration",
+  "vendor": "idville",
+  "version": "0.1.1",
+  "title": "Zakeke",
+  "description": "Zakeke",
+  "mustUpdateAt": "2018-01-04",
+  "categories": [],
+  "builders": {
+    "node": "6.x"
+  },
+  "dependencies": {
+    "vtex.catalog-graphql": "1.x"
+  },
+  "credentialType": "absolute",
+  "policies": [
+    {
+      "name": "vtex.catalog-graphql:resolve-graphql"
+    },
+    {
+      "name": "ADMIN_DS"
+    },
+    {
+      "name": "vbase-read-write"
+    },
+    {
+      "name": "colossus-fire-event"
+    },
+    {
+      "name": "colossus-write-logs"
+    },
+    {
+      "name": "LogisticsViewer"
+    },
+    {
+      "name": "AcessaTodosPedidos"
+    },
+    {
+      "name": "outbound-access",
+      "attrs": {
+        "host": "{{workspace}}--{{account}}.myvtex.com",
+        "path": "*"
+      }
+    },
+    {
+      "name": "outbound-access",
+      "attrs": {
+        "host": "{{account}}.vtexcommercestable.com.br",
+        "path": "*"
+      }
+    },
+    {
+      "name": "outbound-access",
+      "attrs": {
+        "host": "portal.vtexcommercestable.com.br",
+        "path": "*"
+      }
+    },
+    {
+      "name": "outbound-access",
+      "attrs": {
+        "host": "{{account}}.myvtex.com",
+        "path": "*"
+      }
+    },
+    {
+      "name": "outbound-access",
+      "attrs": {
+        "host": "api.vtex.com",
+        "path": "*"
+      }
+    },
+    {
+      "name": "outbound-access",
+      "attrs": {
+        "host": "api.zakeke.com",
+        "path": "*"
+      }
+    }
+  ],
+  "settingsSchema": {
+    "title": "Zakeke Integration configuration",
+    "type": "object",
+    "properties": {
+      "customizableCategories": {
+        "type": "array",
+        "title": "Customizable Categories",
+        "description": "Categories that will be customizable",
+        "items": {
+          "type": "object",
+          "properties": {
+            "categoryId": {
+              "type": "number",
+              "title": "Category ID"
+            },
+            "personalization": {
+              "type": "string",
+              "title": "Personalization",
+              "description": "Personalization field name"
+            }
+          }
+        }
+      },
+      "domain": {
+        "type": "string",
+        "title": "cart url",
+        "description": "url of cart to be redirected from zakeke"
+      },
+      "zakekeCredentials": {
+        "type": "object",
+        "title": "Zakeke Credentials",
+        "properties": {
+          "clientId": {
+            "type": "string",
+            "title": "Client ID"
+          },
+          "secretKey": {
+            "type": "string",
+            "title": "Client Secret"
+          },
+          "allowedOrigins": {
+            "type": "string",
+            "title": "Allowed Origins",
+            "description": "Origins that will be allowed to get zakeke customer token sepparated by comma"
+          }
+        }
+      }
+    }
+  },
+  "settingsUiSchema": {
+    "ui:order": [
+      "customizableCategories",
+      "domain",
+      "zakekeCredentials"
+    ],
+    "zakekeCredentials": {
+      "clientId": {
+        "ui:widget": "password"
+      },
+      "secretKey": {
+        "ui:widget": "password"
+      }
+    }
+  },
+  "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
+}
